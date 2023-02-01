@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="assets/gifs/waving-hand-joypixels.gif" height="28px" width="28px">, I'm Meraj Hossain</h1>
-<h3 align="center">I'm a Self-Learner and Flutter Developer from Bangladesh.</h3>
+<h1 align="center">Hello Good people <img src="assets/gifs/waving-hand-joypixels.gif" height="28px" width="28px">, I'm Nisharul Islam Nahid</h1> <h3 align="center">I'm a Full Stack Backend Developer (with a focus on Python)" from Bangladesh.</h3>
 
 <br>
 

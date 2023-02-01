@@ -1,4 +1,4 @@
-<h1 align="center">Hello Good people <img src="assets/gifs/waving-hand-joypixels.gif" height="28px" width="28px">, I'm Nisharul Islam Nahid</h1> <h3 align="center">I'm a Full Stack Backend Developer (with a focus on Python)" from Bangladesh.</h3>
+<h1 align="center">Hello good people<img src="assets/gifs/waving-hand-joypixels.gif" height="28px" width="28px">, I'm Nisharul Islam Nahid</h1> <h3 align="center">I'm a Full Stack Backend Developer (with a focus on Python) from Bangladesh.</h3>
 
 <br>
 
